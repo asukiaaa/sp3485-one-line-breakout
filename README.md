@@ -1,5 +1,7 @@
 # sp3485-one-line-breakout
 
+![sp3485-one-line-breakout](./docs/sp3485-one-line-breakout.jpg)
+
 ## Setup
 
 To install submodules, run the following command after clone.
