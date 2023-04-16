@@ -10,6 +10,10 @@ To install submodules, run the following command after clone.
 git submodule update --init --recursive
 ```
 
+## Where to buy
+
+[sp3485-one-line-breakout - switch science](https://ssci.to/6823)
+
 ## License
 
 MIT
